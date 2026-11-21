@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Base_Price
+P001,Bottled Water,Beverages,20
+P002,Orange Juice,Beverages,65
+P003,Cola,Beverages,40
+P004,Milk,Dairy,32
+P005,Yogurt,Dairy,25
+P006,Cheese,Dairy,110
+P007,Bread,Bakery,35
+P008,Cookies,Bakery,45
+P009,Rice 5kg,Staples,320
+P010,Wheat Flour,Staples,210
+P011,Cooking Oil,Staples,160
+P012,Pasta,Staples,55
+P013,Potato Chips,Snacks,30
+P014,Chocolate,Snacks,50
+P015,Biscuits,Snacks,20
+P016,Laundry Detergent,Household,145
+P017,Dish Soap,Household,75
+P018,Shampoo,Personal Care,120
+P019,Toothpaste,Personal Care,65
+P020,Hand Wash,Personal Care,85
